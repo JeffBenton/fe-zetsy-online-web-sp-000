@@ -50,7 +50,8 @@ p {
 }
 
 .press_img:hover {
-  border: 3px solid #9baca6;
+  border: 3px solid #444e4b;
+  cursor: d;
 }
 
 .copyright {
