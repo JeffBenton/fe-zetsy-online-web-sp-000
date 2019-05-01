@@ -51,7 +51,7 @@ p {
 
 .press_img:hover {
   border: 3px solid #444e4b;
-  cursor: d;
+  cursor: pointer;
 }
 
 .copyright {
