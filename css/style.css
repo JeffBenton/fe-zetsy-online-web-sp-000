@@ -21,5 +21,6 @@ body {
 
 h1 {
   /*font-size: 150%;*/
+  font-weight: lighter;
   color: #9baca6;
 }
