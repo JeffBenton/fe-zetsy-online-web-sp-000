@@ -42,5 +42,9 @@ p {
 }
 
 .learn_more {
-  
+  text-decoration: none
+}
+
+.press_image {
+  border: 3px solid #9baca6;
 }
