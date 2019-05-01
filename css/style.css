@@ -49,6 +49,10 @@ p {
   border: 3px solid #9baca6;
 }
 
+.press_img:hover {
+  border: 3px solid #9baca6;
+}
+
 .copyright {
   float: right;
   font-size: 8px;
